@@ -7,3 +7,10 @@ console.log('from dev')
 1 commit ..after another
 
 kimo1
+
+
+
+kimo2
+
+
+kimo2 agaian
