@@ -6,7 +6,7 @@ console.log('from dev')
 
 1 commit ..after another
 
-kimo1
+kimo1 ---- made by dev
 
 
 
@@ -14,3 +14,5 @@ kimo2
 
 
 kimo2 agaian
+
+checking local user email
